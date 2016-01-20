@@ -9,6 +9,7 @@ The Pisticci Farm Project is a project of the Upper Manhattan restaurant [Pistic
 This document outlines the technologies and processes involved in the composting and farming elements of the project.
 
 <a name="compost"></a>
+
 ## Compost
 
 The discarded organic material from Pisticci restaurant are separated at source (ie. the kitchen, bar, etc.) from other 'waste'. These materials are composted using an oxygenated hot composting method to ensure rapid decomposition, no unpleasant odours and the creation of a high quality fertiliser and biological innoculum for the soil at the [farm](#farm).
@@ -35,7 +36,29 @@ Organic materials may now be added.
 
 **Ongoing Addition of Organic Materials**
 
- 1. 
+ 1. Use the composting fork to mix through any previously added materials and add water from the hose to bring the moisture levels up to approximately [50% moisture](#50moisture).
+ 2. Empty two or three white bags of organic materials into the bin currently in use. Attempt to mix bags which are mostly vegetable waste ([high nitrogen materials](#highnitrogen)) and bags which are mostly napkins / dry '[high carbon](#highcarbon)' materials.
+ 3. Mix these materials together in the bin using the composting fork.
+ 4. Use the bucket to carry several buckets of woodchips from the woodchip storge bin to the compost bin to cover the material from the bags.
+ 5. Mix the woodchips into the other materials using the composting fork.
+ 6. Allow the materials to sit in the bin until the next addition to absorb moisture before adding any additional water (see point 1 above).
+
+**When a Bin is Full**
+
+ 1. When a bin is full, make sure the moisture levels are appropriate (ie. [50% moisture](#50moisture)), add a layer of woodchip over the top layer and cover with geotextile fabric / weed matting.
+ 2. ensure the valve for the air is in the fully open position.
+ 3. Leave to mature for as long as possible before the compost is taken up to the farm
+ 4. Compost will be taken to the farm when two bins are full and one bin is one quarter to half-way full.
+
+**Transporting Compost to the Farm**
+
+When two bins are full and one bin is one quarter to half-way full, the most mature pile should be transported to the farm.
+
+ 1. Position the truck somewhere near to the front of the restaurant which will allow for wheelbarrow access via the gate at the side of the building.
+ 2. Lift the front panel of the bin to be removed so the the bolts which secure it are lifted from their holes and set the front panel aside.
+ 3. Using a wheelbarrow, transport the compost to the truck until the bin is empty.
+ 4. Clean all areas and close the bin by returning the front panel to its place.
+
 
 #### System Specifications
 
@@ -45,6 +68,19 @@ Organic materials may now be added.
 
 
 <a name="farm"></a>
+
 ## Farm
 
+## Glossary
 
+<a name="50moisture"></a>
+
+ **50% moisture** - Compost or composting materials with approximately 50% moisture will make your hand moist when squeezed of produce a drop or two of water.
+
+<a name="highcarbon"></a>
+
+ **high carbon materials** - organic materials such as paper, napkins, cardboard, woodships, straw etc. which have relatively much more elemental carbon (C) than elemental nitrogen (N).
+
+<a name="highnitrogen"></a>
+
+ **high nitrogen materials** - organic materials such as manure, vegetable scraps, grass clippings etc. which have high levels of elemental nitrogen (N) relative to elemental carbon (C).
