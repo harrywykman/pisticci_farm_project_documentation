@@ -11,7 +11,6 @@ This document outlines the technologies and processes involved in the composting
 <a name="compost"></a>
 
 ## Compost
-
 The discarded organic material from Pisticci restaurant are separated at source (ie. the kitchen, bar, etc.) from other 'waste'. These materials are composted using an oxygenated hot composting method to ensure rapid decomposition, no unpleasant odours and the creation of a high quality fertiliser and biological innoculum for the soil at the [farm](#farm).
 
 ### Aerated Static Pile (ASP) Composting
@@ -69,7 +68,67 @@ When two bins are full and one bin is one quarter to half-way full, the most mat
 
 <a name="farm"></a>
 
+
+
 ## Farm
+
+The Pisticci Farm Project is a multi-site micro farm. At the time of writing the farm consists of two sites:
+
+ - 43 Old Post Rd South, Croton-on-Hudson, NY (OPRS); and
+ - 716 Kitchawan Rd, Ossining, NY (KITCH).
+
+The **Old Post Rd South** site was developed and farmed in 2015. The **Kitchawan** site was secured at the end of 2015 and will be developed and farmed in addition to the OPRS site in 2016.
+
+### Old Post Rd South
+
+The Old Post Rd South site is the flagship site of the Pisticci Farm Project. It consists of indoor and outdoor growing space. There are two large old glass greenhouses which have been restored and developed for all sesason production of vegetables. The 2015 growing season was used for diverse crop production with a focus on fast growing, high value crops, variety trials and winter greens production. In 2016, this site will be used primarily for all season greens production and greenhouse production of tomatoes, peppers, eggplant and cucumbers.
+
+#### The Outdoor Growing Area
+
+The outdoor growing area consists of 27 beds of varying sizes in three blocks (Lower, Middle, Top). The beds are all 30 inches wide with 18 inch paths between them and vary in size from 10 to 40 feet with a total of 620 linear feet of bed space (1550 ft<sup>2</sup>).
+
+#### The Greenhouses
+
+In 2015, the indoor space consisted of 12 beds across two greenhouses. The beds ranged in size from 18 to 60 feet with a total of 356 linear feet of bed space (890 ft<sup>2</sup>). In early 2016, these indoor beds were delineated with 6" x 2" boards to create a total of 14 beds 29 inches wide with 11 inch intermediate paths. This new configuration has a total of XXX bed feet (XXX 1550 ft<sup>2</sup>).
+
+**Hydronic Heating** is used in the greenhouses to allow for all season production. The original soil is separated from the imported soil and compost by 2 inches of foam insulation. PEX tubing runs over the top of the insulation at 12 inch spacing. The PEX tubing is covered with between 12 and 18 inches of topsoil mixed with compost. This soil is kept at a minimum of 50<sup>&deg;</sup>F (10<sup>&deg;</sup>C) to allow for ongoing plant growth during the cooler month.
+
+### Kitchawan
+
+Kitchawan Farm is a diversified working farm with a focus on rough housing of horses. The Pisticci Farm project leases a small area for vegetable production. In Spring of 2016, this area will be developed into sets of 30 inch wide beds. This site will be used for crops  n
+
+### Fertility
+
+Soil is at the heart of any growing system with integrity. The Pisticci Farm project utilises a number of strategies for developing and maintaining a healthy soil for the production of healthy nutritios plants. These include:
+
+ - composting
+ - soil testing and ammending for mineral balance
+ - biological innocula / biofertiliser
+ - minimal tillage
+ - fertigation
+
+#### Soil Testing and Ammending for Mineral Balance
+
+#### Biological Innocula
+
+#### Fertigation
+
+## Suppliers
+
+
+| Supplier | Description  | Contact(s)|
+|----------|-----------|----------|
+| **Aloha Medicinals** http://www.alohamedicinals.com/ | innoculated grain, mushroom growing supplies |
+| **Arbico Organics** </br> http://www.arbico-organics.com/ | EM-1 | |
+| **Central Irrigation** (Elmsford) http://www.centralirrigationsupply.com/ | general irrigation supplies
+|**Compostwerks** http://www.compostwerks.com/ | soil ammendments, biofertiliser ingredients  | *Gregg Twehues* (gregg@compostwerks.com) </br> *Peter Schmidt* (peter@compostwerks.com) |
+| **Farmtek** </br> http://www.farmtek.com/ | general equipment | *Virginia Daly* (vdaly@farmtek.com)|
+| **Growers Supply** http://www.growerssupply.com/ | general equipment
+| **Johnny's Selected Seeds** http://www.johnnyseeds.com/ | seed, tools
+| **Logan Labs** | soil testing |
+| **Nolts Produce** http://www.noltsproducesupplies.net/ | row cover, irrigation supplies, tools
+| **O2 Compost** http://www.o2compost.com/ | composting support | *Peter Moon* (peter@o2compost.com)
+
 
 ## Glossary
 
