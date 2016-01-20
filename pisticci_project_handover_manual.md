@@ -99,7 +99,7 @@ Kitchawan Farm is a diversified working farm with a focus on rough housing of ho
 
 ### Fertility
 
-Soil is at the heart of any growing system with integrity. The Pisticci Farm project utilises a number of strategies for developing and maintaining a healthy soil for the production of healthy nutritios plants. These include:
+Soil is at the heart of any vegetable growing system with integrity. The Pisticci Farm project utilises a number of strategies for developing and maintaining a healthy soil for the production of healthy nutritios plants. These include:
 
  - composting
  - soil testing and ammending for mineral balance
