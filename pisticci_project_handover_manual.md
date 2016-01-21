@@ -25,6 +25,7 @@ The Pisticci ASP system using includes three enclosed boxes which are bottem-fed
 
 #### Composting Processes
 
+
 **Establishing a new Pile**
 
  1. Ensure that all pipes in the manifold in the bottom of the bin are present and properly fitted together.
@@ -209,6 +210,7 @@ Cucumbers were not grown in 2015. Refer to `The Market Gardener` or other refere
 #### kale
 
 *baby leaf*
+
  > **Propagation:** Direct Sown
  >
  > **Seeder:** Glasser (small bore)
@@ -220,6 +222,7 @@ Cucumbers were not grown in 2015. Refer to `The Market Gardener` or other refere
  > **Store:** Coolroom
 
 *large leaf*
+
  > **Propagation:** 72 cell tray
  >
  > **Rows:** 4
@@ -273,6 +276,7 @@ Cucumbers were not grown in 2015. Refer to `The Market Gardener` or other refere
  > **Harvest:** twist off or cut off fruits at base of stem
  >
  > **Store:** Basement
+
 #### radish
 
 Radishes were not grown in 2015. Refer to `The Market Gardener` or other reference for cultural details.
@@ -399,21 +403,25 @@ The ideal use of this system is still being worked out. The current regime is as
 ## Suppliers
 
 **Aloha Medicinals**
+
  > **url:** http://www.alohamedicinals.com/
  >
  > **details:** innoculated grain, mushroom growing supplies
 
 **Arbico Organics**
+
  > **url:** http://www.arbico-organics.com/
  >
  > **details:** EM•1<sup>®</sup>
 
 **Central Irrigation** (Elmsford)
+
  > **url:** http://www.centralirrigationsupply.com/
  >
  > **details:** general irrigation supplies
 
 **Compostwerks**
+
  > **url:** http://www.compostwerks.com/
  >
  > **details:** soil ammendments, biofertiliser ingredients
@@ -421,6 +429,7 @@ The ideal use of this system is still being worked out. The current regime is as
  > **contacts:** *Gregg Twehues* (gregg@compostwerks.com); *Peter Schmidt* (peter@compostwerks.com)
 
 **Farmtek**
+
  > **url:** http://www.farmtek.com/
  >
  > **details:** general equipment
@@ -428,26 +437,31 @@ The ideal use of this system is still being worked out. The current regime is as
  > **contact:** *Virginia Daly* (vdaly@farmtek.com)
 
 **Growers Supply**
+
  > **url:** http://www.growerssupply.com/
  >
  > **details:** general equipment
 
 **Johnny's Selected Seeds**
+
  > **url:** http://www.johnnyseeds.com/
  >
  > **details:**seed, tools
 
 **Logan Labs**
+
  > **url:** http://www.loganlabs.com/
  >
  > **details:** soil testing
 
 **Nolts Produce**
+
  > **url:** http://www.noltsproducesupplies.net/
  >
  > **details:** row cover, irrigation supplies, tools
 
 **O2 Compost**
+
  > **url:** http://www.o2compost.com/
  >
  > **details:** composting support
@@ -455,11 +469,13 @@ The ideal use of this system is still being worked out. The current regime is as
  > **contact:** *Peter Moon* (peter@o2compost.com)
 
 **Teraganix**
+
  > **url:** http://www.teraganix.com/
  >
  > **details:** EM•1<sup>®</sup>, pH test papers
 
 **The Green Growler** (Croton)
+
  > **url:** http://thegreengrowler.com/
  > **details:** airlocks
 
