@@ -197,7 +197,7 @@ Cucumbers were not grown in 2015. Refer to `The Market Gardener` or other refere
 
  > **Propagation:** 72 cell tray
  >
- > **Rows:** 4 
+ > **Rows:** 4
  >
  > **Spacing:** 8"
  >
@@ -209,25 +209,104 @@ Cucumbers were not grown in 2015. Refer to `The Market Gardener` or other refere
 #### kale
 
 *baby leaf*
+ > **Propagation:** Direct Sown
+ >
+ > **Seeder:** Glasser (small bore)
+ >
+ > **Rows:** 7
+ >
+ > **Harvest:** Use `Serrated Greens Knife (blue handle)`
+ >
+ > **Store:** Coolroom
 
 *large leaf*
+ > **Propagation:** 72 cell tray
+ >
+ > **Rows:** 4
+ >
+ > **Spacing:** 8"
+ >
+ > **Harvest:** twist off mature leaves
+ >
+ > **Store:** Coolroom
 
-#### lettuce
+#### lettuce (salanova)
+ > **Propagation:** 72 cell tray
+ >
+ > **Rows:** 4
+ >
+ > **Spacing:** 8"
+ >
+ > **Harvest:** Cut off outside leaves with `lettuce field knife (yellow handle)`
+ >
+ > **Store:** Coolroom
+
 #### mesclun mix
+ > **Propagation:** Direct Sown
+ >
+ > **Seeder:** Glasser (large bore)
+ >
+ > **Rows:** 9
+ >
+ > **Harvest:** Use `Serrated Greens Knife (blue handle)`
+ >
+ > **Store:** Coolroom
+
 #### pattypan squash
+ > **Propagation:** 72 cell tray transplanted to 4" pot
+ >
+ > **Rows:** 1
+ >
+ > **Spacing:** 18"
+ >
+ > **Harvest:** twist off or cut off fruits at base of stem
+ >
+ > **Store:** Basement
+
 #### pepper
+ > **Propagation:** 72 cell tray transplanted to 4" pot
+ >
+ > **Rows:** 1
+ >
+ > **Spacing:** 18"
+ >
+ > **Harvest:** twist off or cut off fruits at base of stem
+ >
+ > **Store:** Basement
 #### radish
+
+Radishes were not grown in 2015. Refer to `The Market Gardener` or other reference for cultural details.
+
 #### summer squash
+ > **Propagation:** 72 cell tray transplanted to 4" pot
+ >
+ > **Rows:** 1
+ >
+ > **Spacing:** 18"
+ >
+ > **Harvest:** twist off or cut off fruits at base of stem
+ >
+ > **Store:** Basement
+
 #### tomato
+ > **Propagation:** 72 cell tray transplanted to 4" pot
+ >
+ > **Rows:** 1
+ >
+ > **Spacing:** 18"
+ >
+ > **Harvest:** twist off or cut off fruits at base of stem
+ >
+ > **Store:** Basement
 
-
-
+Refer to `The Market Gardener` or other reference for details of trellising system and offset training.
 
 ### Nursery
 
 Pisticci Full Circle Farm produces all of its own seedlings. All seed to date has been purchased from Johnny's Selected Seed. Potting medium is made at the farm.
 
 #### Potting Medium
+
 Potting soil is usually made up in batches of one wheelbarrow with the major ingredients being measured using a 5 gallon bucket. The **potting soil** consists of:
  * 2 buckets sifted compost
  * 2 buckets sifted coir
@@ -238,6 +317,7 @@ Potting soil is usually made up in batches of one wheelbarrow with the major ing
  * 2 buckets water
 
 *Method*
+
  1. mix fish hydrolysate, solu-kelp and EM in water
  2. add coir to water and let stand until expanded; add extra water if required
  3. sift all other ingredients and mix together thoroughly
@@ -269,6 +349,7 @@ The principal form of biological activation / innoculation of soil and leaf surf
 **Activated EM** is created through the following process:
 
  *Ingredients and Equipment*
+
  1. EM•1<sup>®</sup> --- 1 gallon
  2. Unsulfured Blackstrap Molasses --- 1 gallon
  3. water (preferably warm / ~ 110<sup>&deg;</sup>F (43<sup>&deg;</sup>C).
@@ -276,6 +357,7 @@ The principal form of biological activation / innoculation of soil and leaf surf
  5. airtight container and airlock
 
  *Method*
+
  1. Mix ingredients in the container.
  2. Check the initial pH with pH paper.
  3. Put on lid and airlock
@@ -289,7 +371,7 @@ The principal form of biological activation / innoculation of soil and leaf surf
     1. other soluble fertilisers (solukelp, fish hydrolysate, blood meal) may be added
  - **Potting Media** -- add 3 tbsp to the water used to hydrate the coir block or add to existing potting mix
  - **Soil Drench** --- 3 tbsp (1.5 oz) of  *activated EM* to 1.5 gallons of water --- apply to soil with sprayer or through venturi.
-za
+
 #### Fertigation
 
 A Mazzei venturi injection system has been installed in the water line that preceeds the solenoid valves which control each of the irrigation stations. This allows soluble nutrient and biological innocula to be applied through the irrigation water given to crops.
@@ -297,37 +379,89 @@ A Mazzei venturi injection system has been installed in the water line that prec
 The ideal use of this system is still being worked out. The current regime is as follows:
 
  *Application Rate*
+
  - EM --- ( 40 gallons / acre / year) **0.45 oz / 100 ft<sup>2</sup> / 14 days**
  - Solukelp --- (312 oz / acre / year) **0.03 oz / 100 ft<sup>2</sup> / 14 days**
  - Neptune's Harvest Fish Fertilizer --- (12 gallons / acre / year) **0.14 oz / 100 ft<sup>2</sup> / 14 days**
 
 *Western Greenhouse* (400 sq ft bed area)
+
  - EM --- 6 tbsp / 14 days
  - Solu-Kelp --- 1 tsp / 14 days
  - Neptune's Harvest Fish Fertilizer --- 2 tbsp / 14 days
 
 *Eastern Greenhouse* (900 sq ft bed area)
+
  - EM --- 9 tbsp / 14 days
  - Solu-Kelp --- 1.5 tsp / 14 days
  - Neptune's Harvest Fish Fertilizer --- 2.5 tbsp / 14 days
 
 ## Suppliers
 
-| Supplier | Description  | Contact(s)|
-|----------|-----------|----------|
-| **Aloha Medicinals** http://www.alohamedicinals.com/ | innoculated grain, mushroom growing supplies |
-| **Arbico Organics** </br> http://www.arbico-organics.com/ | EM•1<sup>®</sup> | |
-| **Central Irrigation** (Elmsford) http://www.centralirrigationsupply.com/ | general irrigation supplies
-|**Compostwerks** http://www.compostwerks.com/ | soil ammendments, biofertiliser ingredients  | *Gregg Twehues* (gregg@compostwerks.com) </br> *Peter Schmidt* (peter@compostwerks.com) |
-| **Farmtek** </br> http://www.farmtek.com/ | general equipment | *Virginia Daly* (vdaly@farmtek.com)|
-| **Growers Supply** http://www.growerssupply.com/ | general equipment
-| **Johnny's Selected Seeds** http://www.johnnyseeds.com/ | seed, tools
-| **Logan Labs** | soil testing |
-| **Nolts Produce** http://www.noltsproducesupplies.net/ | row cover, irrigation supplies, tools
-| **O2 Compost** http://www.o2compost.com/ | composting support | *Peter Moon* (peter@o2compost.com)
-| **Teraganix** http://www.teraganix.com/ | EM•1<sup>®</sup>, pH test papers
-| **The Green Growler** (Croton) http://thegreengrowler.com/ | airlocks
+**Aloha Medicinals**
+ > **url:** http://www.alohamedicinals.com/
+ >
+ > **details:** innoculated grain, mushroom growing supplies
 
+**Arbico Organics**
+ > **url:** http://www.arbico-organics.com/
+ >
+ > **details:** EM•1<sup>®</sup>
+
+**Central Irrigation** (Elmsford)
+ > **url:** http://www.centralirrigationsupply.com/
+ >
+ > **details:** general irrigation supplies
+
+**Compostwerks**
+ > **url:** http://www.compostwerks.com/
+ >
+ > **details:** soil ammendments, biofertiliser ingredients
+ >
+ > **contacts:** *Gregg Twehues* (gregg@compostwerks.com); *Peter Schmidt* (peter@compostwerks.com)
+
+**Farmtek**
+ > **url:** http://www.farmtek.com/
+ >
+ > **details:** general equipment
+ >
+ > **contact:** *Virginia Daly* (vdaly@farmtek.com)
+
+**Growers Supply**
+ > **url:** http://www.growerssupply.com/
+ >
+ > **details:** general equipment
+
+**Johnny's Selected Seeds**
+ > **url:** http://www.johnnyseeds.com/
+ >
+ > **details:**seed, tools
+
+**Logan Labs**
+ > **url:** http://www.loganlabs.com/
+ >
+ > **details:** soil testing
+
+**Nolts Produce**
+ > **url:** http://www.noltsproducesupplies.net/
+ >
+ > **details:** row cover, irrigation supplies, tools
+
+**O2 Compost**
+ > **url:** http://www.o2compost.com/
+ >
+ > **details:** composting support
+ >
+ > **contact:** *Peter Moon* (peter@o2compost.com)
+
+**Teraganix**
+ > **url:** http://www.teraganix.com/
+ >
+ > **details:** EM•1<sup>®</sup>, pH test papers
+
+**The Green Growler** (Croton)
+ > **url:** http://thegreengrowler.com/
+ > **details:** airlocks
 
 ## Glossary
 
