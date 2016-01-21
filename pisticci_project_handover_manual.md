@@ -89,13 +89,160 @@ The outdoor growing area consists of 27 beds of varying sizes in three blocks (L
 
 #### The Greenhouses
 
-In 2015, the indoor space consisted of 12 beds across two greenhouses. The beds ranged in size from 18 to 60 feet with a total of 356 linear feet of bed space (890 ft<sup>2</sup>). In early 2016, these indoor beds were delineated with 6" x 2" boards to create a total of 14 beds 29 inches wide with 11 inch intermediate paths. This new configuration has a total of XXX bed feet (XXX 1550 ft<sup>2</sup>).
+In 2015, the indoor space consisted of 12 beds across two greenhouses. The beds ranged in size from 29 to 60 feet with a total of 517 linear feet of bed space (1292 ft<sup>2</sup>). In early 2016, these indoor beds were delineated with 6" x 2" boards to create a total of 14 beds 29 inches wide with 11 inch intermediate paths. This new configuration has a total of 550 bed feet (1630 ft<sup>2</sup>).
 
 **Hydronic Heating** is used in the greenhouses to allow for all season production. The original soil is separated from the imported soil and compost by 2 inches of foam insulation. PEX tubing runs over the top of the insulation at 12 inch spacing. The PEX tubing is covered with between 12 and 18 inches of topsoil mixed with compost. This soil is kept at a minimum of 50<sup>&deg;</sup>F (10<sup>&deg;</sup>C) to allow for ongoing plant growth during the cooler month.
 
 ### Kitchawan
 
 Kitchawan Farm is a diversified working farm with a focus on rough housing of horses. The Pisticci Farm project leases a small area for vegetable production. In Spring of 2016, this area will be developed into sets of 30 inch wide beds. This site will be used for crops  n
+
+### Crops
+
+#### Priority Crops for 2016
+
+| Type      | Crop                  | Varieties                             | DTM   | Location  |
+|-----------|-----------------------|---------------------------------------|-------|----------:|
+| green     | ***arugula***         | astro                                 | 21-30 | OPR       |
+| green     | ***kale***            | toscano                               | 35-40 | KITCH     |
+| green     | ***lettuce***         | salanova                              | 55    | KITCH     |
+| green     | ***mesclun mix***     | 5 star; all star                      | 28-30 | OPR       |
+| green     | ***dandelion***       | clio, garnet stem                     | 35-48 | OPR       |
+| green     | ***escarole***        | eros                                  | 45    | OPR       |
+| green     | ***beet greens***     | bulls blood; early wonder; red devil  | 35    | KITCH     |
+| cucurbit  | ***summer squash***   | zephyr; goldmine; safari; slik pik    | 50-54 | KITCH     |
+| cucurbit  | ***pattypan squash*** | sunburst; g-start                     | 50-52 | KITCH     |
+| cucurbit  | ***cucumber***        | katrina                               | 48    | OPR       |
+| solanum   | ***pepper***          | carmen; sprinter; sympathy; moonset   | 60    | GH; KITCH |
+| solanum   | ***tomato***          | taxi; rebelski; manero; beorange      | 70-75 | GH        |
+| solanum   | ***tomato (cherry)*** | santorange; favorita; yellow pear     | 58-70 | GH        |
+| solanum   | ***eggplant***        | nadia; orient charm; jaylo            | 62-67 | GH; KITCH |
+| herb      | ***basil***           | nufar; neopolitano                    | 77    | GH; KITCH |
+| root      | ***beet***            | baby beet; boulder; red ace           | 40-50 | KITCH     |
+| root      | ***radish***          | d'avignon                             | 21    | KITCH     |
+
+### Crop Descriptions
+
+The following includes cultivation notes on each of the above crops if they were successfully grown in 2015. If crops were not grown in 2015 or the cultivation description is well detailed elsewhere then references are given.
+
+#### arugula
+
+ > **Propagation:** Direct Sown
+ >
+ > **Seeder:** Glasser (small bore)
+ >
+ > **Rows:** 7-9 (more rows makes plants 'stemmy')
+ >
+ > **Harvest:** Use `Serrated Greens Knife (blue handle)`
+ >
+ > **Store:** Coolroom
+
+#### basil
+
+ > **Propagation:** 72 cell tray
+ >
+ > **Rows:** 3
+ >
+ > **Spacing:** 12"
+ >
+ > **Harvest:** Cut stems down to node with `secateurs`
+ >
+ > **Store:** Coolroom
+
+#### beets
+
+Beets were not grown as a root crop in 2015. Refer to `The Market Gardener` or other reference for cultural details.
+
+#### beet greens
+
+ > **Propagation:** Direct Sown
+ >
+ > **Seeder:** Earthway (chard plates)
+ >
+ > **Rows:** 7
+ >
+ > **Harvest:** Use `Serrated Greens Knife (blue handle)`
+ >
+ > **Store:** Coolroom
+
+#### cucumber
+
+Cucumbers were not grown in 2015. Refer to `The Market Gardener` or other reference for cultural details.
+
+#### dandelion
+
+ > **Propagation:** 72 cell tray
+ >
+ > **Rows:** 5
+ >
+ > **Spacing:** 6"
+ >
+ > **Harvest:** Use `Serrated Greens Knife (blue handle)`
+ >
+ > **Store:** Coolroom
+
+#### eggplant
+
+ > **Propagation:** 72 cell tray transplanted to 4" pot
+ >
+ > **Rows:** 1
+ >
+ > **Spacing:** 18"
+ >
+ > **Harvest:** Cut stems above fruit with `secateurs`
+ >
+ > **Store:** Basement
+
+#### escarole
+
+ > **Propagation:** 72 cell tray
+ >
+ > **Rows:** 4 
+ >
+ > **Spacing:** 8"
+ >
+ > **Harvest:** Use `Serrated Greens Knife (blue handle)`
+ >
+ > **Store:** Coolroom
+
+
+#### kale
+
+*baby leaf*
+
+*large leaf*
+
+#### lettuce
+#### mesclun mix
+#### pattypan squash
+#### pepper
+#### radish
+#### summer squash
+#### tomato
+
+
+
+
+### Nursery
+
+Pisticci Full Circle Farm produces all of its own seedlings. All seed to date has been purchased from Johnny's Selected Seed. Potting medium is made at the farm.
+
+#### Potting Medium
+Potting soil is usually made up in batches of one wheelbarrow with the major ingredients being measured using a 5 gallon bucket. The **potting soil** consists of:
+ * 2 buckets sifted compost
+ * 2 buckets sifted coir
+ * 1 bucket sifted bed soil
+ * 3 tbsp fish hydrolysate
+ * 1 tsp solu-kelp
+ * 3 tbsp EM
+ * 2 buckets water
+
+*Method*
+ 1. mix fish hydrolysate, solu-kelp and EM in water
+ 2. add coir to water and let stand until expanded; add extra water if required
+ 3. sift all other ingredients and mix together thoroughly
+ 4. store in galvanised bin, preferably for a week or more before use.
+
 
 ### Fertility
 
@@ -109,17 +256,67 @@ Soil is at the heart of any vegetable growing system with integrity. The Pisticc
 
 #### Soil Testing and Ammending for Mineral Balance
 
+Soil testing has been carried out to determine how to ammend soil to achieve a balance of minerals for ideal plant health. The principal tool used to determine the 'ideal' is the set of worksheets created by Steve Solomon and Erica Reinheimer (available at [http://www.newsociety.com/var/storage/blurbs/IntelligentGardener-Worksheets.pdf](http://www.newsociety.com/var/storage/blurbs/IntelligentGardener-Worksheets.pdf)). This process is well described in "The Intelligent Gardener" by Steve Solomon.
+
+##### Recommended Soil Treatments for 2016
+
+ TODO TABLE
+
 #### Biological Innocula
 
+The principal form of biological activation / innoculation of soil and leaf surfaces is through the use of EM; effective microorganisms.
+
+**Activated EM** is created through the following process:
+
+ *Ingredients and Equipment*
+ 1. EM•1<sup>®</sup> --- 1 gallon
+ 2. Unsulfured Blackstrap Molasses --- 1 gallon
+ 3. water (preferably warm / ~ 110<sup>&deg;</sup>F (43<sup>&deg;</sup>C).
+ 4. pH test papers with range to 3.5
+ 5. airtight container and airlock
+
+ *Method*
+ 1. Mix ingredients in the container.
+ 2. Check the initial pH with pH paper.
+ 3. Put on lid and airlock
+ 4. Ferment at room temperature for 3-5 days.
+ 5. Some time between days 3 and 5, remove the lid and check the pH of the liquid using pH paper. If the pH is 3.8 or below, allow the fermentation to complete for an additional 5-7 days.
+ Toward the end of the fermentation, check the smell of the product. It should have some alcohol smell, some white flakes on it and look and smell similar to the original EM•1®. If all these are true, it is ready to use.
+
+**Activated EM** is used in a range of applications at Pisticci Full Circle Farm:
+
+ - **Foliar Spray** --- 3 tbsp (1.5 oz) of  *activated EM* to 1.5 gallons of water --- apply to leaf surfaces with sprayer
+    1. other soluble fertilisers (solukelp, fish hydrolysate, blood meal) may be added
+ - **Potting Media** -- add 3 tbsp to the water used to hydrate the coir block or add to existing potting mix
+ - **Soil Drench** --- 3 tbsp (1.5 oz) of  *activated EM* to 1.5 gallons of water --- apply to soil with sprayer or through venturi.
+za
 #### Fertigation
 
-## Suppliers
+A Mazzei venturi injection system has been installed in the water line that preceeds the solenoid valves which control each of the irrigation stations. This allows soluble nutrient and biological innocula to be applied through the irrigation water given to crops.
 
+The ideal use of this system is still being worked out. The current regime is as follows:
+
+ *Application Rate*
+ - EM --- ( 40 gallons / acre / year) **0.45 oz / 100 ft<sup>2</sup> / 14 days**
+ - Solukelp --- (312 oz / acre / year) **0.03 oz / 100 ft<sup>2</sup> / 14 days**
+ - Neptune's Harvest Fish Fertilizer --- (12 gallons / acre / year) **0.14 oz / 100 ft<sup>2</sup> / 14 days**
+
+*Western Greenhouse* (400 sq ft bed area)
+ - EM --- 6 tbsp / 14 days
+ - Solu-Kelp --- 1 tsp / 14 days
+ - Neptune's Harvest Fish Fertilizer --- 2 tbsp / 14 days
+
+*Eastern Greenhouse* (900 sq ft bed area)
+ - EM --- 9 tbsp / 14 days
+ - Solu-Kelp --- 1.5 tsp / 14 days
+ - Neptune's Harvest Fish Fertilizer --- 2.5 tbsp / 14 days
+
+## Suppliers
 
 | Supplier | Description  | Contact(s)|
 |----------|-----------|----------|
 | **Aloha Medicinals** http://www.alohamedicinals.com/ | innoculated grain, mushroom growing supplies |
-| **Arbico Organics** </br> http://www.arbico-organics.com/ | EM-1 | |
+| **Arbico Organics** </br> http://www.arbico-organics.com/ | EM•1<sup>®</sup> | |
 | **Central Irrigation** (Elmsford) http://www.centralirrigationsupply.com/ | general irrigation supplies
 |**Compostwerks** http://www.compostwerks.com/ | soil ammendments, biofertiliser ingredients  | *Gregg Twehues* (gregg@compostwerks.com) </br> *Peter Schmidt* (peter@compostwerks.com) |
 | **Farmtek** </br> http://www.farmtek.com/ | general equipment | *Virginia Daly* (vdaly@farmtek.com)|
@@ -128,6 +325,8 @@ Soil is at the heart of any vegetable growing system with integrity. The Pisticc
 | **Logan Labs** | soil testing |
 | **Nolts Produce** http://www.noltsproducesupplies.net/ | row cover, irrigation supplies, tools
 | **O2 Compost** http://www.o2compost.com/ | composting support | *Peter Moon* (peter@o2compost.com)
+| **Teraganix** http://www.teraganix.com/ | EM•1<sup>®</sup>, pH test papers
+| **The Green Growler** (Croton) http://thegreengrowler.com/ | airlocks
 
 
 ## Glossary
