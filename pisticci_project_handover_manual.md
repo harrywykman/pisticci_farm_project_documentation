@@ -346,27 +346,41 @@ Soil testing has been carried out to determine how to ammend soil to achieve a b
 
 ##### Recommended Soil Treatments for 2016
 
- * minerals required
-    * sulfur 
-        * (OPRS OUT, KITCH, OPRS EGH, OPRS WGH)
-    * phosphorus
-        * (OPRS OUT, KITCH, OPRS EGH, OPRS WGH)
-    * calcium
-        * (OPRS OUT, KITCH, OPRS EGH, OPRS WGH)
-    * potassium
-        * (OPRS OUT, KITCH)
-    * sodium
-        * (KITCH)
-    * boron
-        * (OPRS OUT, KITCH, OPRS EGH, OPRS WGH)
-    * manganese
-        * (KITCH)
-    * copper
-        * (KITCH, OPRS EGH, OPRS WGH)
-    * zinc
-        * (KITCH, OPRS EGH, OPRS WGH)
+Soil tests were aquired from Logan Labs to determine an ammendment regimen for 2016. The soil tests are available at [https://github.com/harrywykman/pisticci_farm_project_documentation/tree/master/documents/soil_tests](https://github.com/harrywykman/pisticci_farm_project_documentation/tree/master/documents/soil_tests).
 
- TODO TABLE
+
+***Minerals Required / ft<sup>2</sup>***
+
+
+| Ammendment            | OPRS OUT  | KITCH     | OPRS EGH  | OPRS WGH  |
+|-----------------------|-----------|-----------|-----------|-----------|
+|                       | oz/sq ft  | oz/sq ft  | oz/sq ft  | oz/sq ft  |
+| *feather meal*        | 0.31      | 0.31      | 0.31      | 0.31      |
+| *kelp*                | 0.16      | 0.16      | 0.16      | 0.16      |
+| *potassium sulfate*   | 0.05      | 0.07      | n/a       | n/a       |
+| *agricultural sulfur* | 0.04      | n/a       | 0.03      | 0.04      |
+| *borax*               | 0.01      | 0.01      | 0.01      | 0.01      |
+| *manganese sulfate*   | n/a       | 0.07      | n/a       | n/a       |
+| *biomin copper*       | n/a       | 0.04      | 0.04      | 0.04      |
+| *zinc sulfate*        | n/a       | 0.01      | 0.01      | 0.01      |
+
+
+***Minerals Desirable / Location Area***
+
+
+| Ammendment            | OPRS OUT  | KITCH     | OPRS EGH  | OPRS WGH  |
+|-----------------------|-----------|-----------|-----------|-----------|
+|                       | 1550      | 6095      | 960       | 668       |
+|                       | lbs/area  | lbs/area  | lbs/area  | lbs/area  |
+| *feather meal*        | 30        | 118       | 18        | 13        |
+| *kelp*                | 15        | 61        | 10        | 7         |
+| *potassium sulfate*   | 4.84      | 26.67     | n/a       | n/a       |
+| *agricultural sulfur* | 3.88      | n/a       | 1.80      | 1.67      |
+| *borax*               | 0.97      | 3.81      | 0.60      | 0.42      |
+| *manganese sulfate*   | n/a       | 26.67     | n/a       | n/a       |
+| *biomin copper*       | n/a       | 15.24     | 2.40      | 1.67      |
+| *zinc sulfate*        | n/a       | 3.81      | 0.60      | 0.42      |
+
 
 #### Biological Innocula
 
