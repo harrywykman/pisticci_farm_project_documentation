@@ -4,6 +4,7 @@
 <li><em>engaging</em> the <strong>restaurant</strong> staff and patrons</li>
 <li>creating <em>zero waste</em> through <a href="#compost"><strong>composting</strong></a> within the city</li>
 <li><em>producing</em> high-quality vegetables for Pisticci on the <a href="#farm"><strong>multi-site farm</strong></a></li>
+<li>fully utilising available space through <a href="#mushrooms"><strong>mushroom production</strong></a></li>
 </ul>
 <p>This document outlines the technologies and processes involved in the composting and farming elements of the project.</p>
 <p><a name="compost"></a></p>
@@ -17,6 +18,7 @@
 <li>Organic materials are collected in white plastic bags by the restaurant staff and deposited in wheelie-bins next to the compost bins.</li>
 </ul>
 <h4 id="composting-processes">Composting Processes</h4>
+<p>On a week-by-week basis, the Pisticci ASP composting process incorporates the following steps:</p>
 <p><strong>Establishing a new Pile</strong></p>
 <ol style="list-style-type: decimal">
 <li>Ensure that all pipes in the manifold in the bottom of the bin are present and properly fitted together.</li>
@@ -400,6 +402,53 @@
 <li>Solu-Kelp --- 1.5 tsp / 14 days</li>
 <li>Neptune's Harvest Fish Fertilizer --- 2.5 tbsp / 14 days</li>
 </ul>
+<p><a name="mushrooms"></a> ## Mushroom Production</p>
+<p>Not all the space available on the Pisticci Farm Project sites is suitable for plant production. In particular, there remain underutilised indoor spaces. To begin to make the best use of these spaces mushroom cultivation in a controlled environment is being developed.</p>
+<h3 id="the-technology">The Technology</h3>
+<p>The mushroom grow room is in the basement of the Old Post Rd South site and consists of a basic timber framed room insulated with 2&quot; foam board. The roof is insulated with fibreglass insulation sealed from moisture with clear plastic.</p>
+<p>The controls and monitoring for the room have been set up largely following the <code>mycodo</code> project created by Kyle Gabriel (<a href="http://kylegabriel.com/projects/2015/04/mushroom-cultivation-revisited.html">http://kylegabriel.com/projects/2015/04/mushroom-cultivation-revisited.html</a>).</p>
+<p>A <a href="https://www.raspberrypi.org/products/raspberry-pi-2-model-b/">raspberry pi</a> forms the core of the control system. The <code>pi</code> reads the temperature and humidity sensor and, using a <a href="http://www.csimn.com/CSI_pages/PIDforDummies.html">PID controller</a>, switches fans, a heater and humidifier depending on the environmental conditions.</p>
+<h4 id="simple-oyster-mushroom-production">Simple Oyster Mushroom Production</h4>
+<p>We have aimed for the simplest (and dirtiest) production method that will still produce a product that is valuable to the Pisticci Kitchen. In the proof-of-concept stage we used a cold 'pasteurisation' method. The method currently under development will use heat pasteurisation where water heating is provided by an hydronic coil heated by an efficient gas water heater.</p>
+<p><em>Cold Pasteurisation</em></p>
+<ol style="list-style-type: decimal">
+<li>Part fill a 20 gallon drum with water</li>
+<li>add 10 oz (300 g) of hi calcium hydrated lime and mix well</li>
+<li>add water to approximately 15 gallons</li>
+<li>fill mesh sack(s) with straw and slowly push the sacks into the barrel until the barrel is holding as much straw as possible. The lime solution should cover the sack(s).</li>
+<li>leave for 12 hours</li>
+<li>remove sacks from barrel and allow to drain</li>
+<li>remove straw from sacks and spread out to dry</li>
+</ol>
+<p><em>Hot Pastuerisation</em></p>
+<ol style="list-style-type: decimal">
+<li>add water to barrel to fill to approximately 3/4 of the barrel's volume</li>
+<li>turn on water heater and allow water to reach 160-170<sup>°</sup>F (70-75<sup>°</sup>C).</li>
+<li>fill mesh sack(s) with straw and slowly push the sacks into the barrel until the barrel is holding as much straw as possible.</li>
+<li>maintain the water temperature in the 160 - 170<sup>°</sup>F range for 1 hour</li>
+<li>remove sacks from barrel and allow to drain</li>
+<li>remove straw from sacks and spread out to dry</li>
+</ol>
+<p>Our mushroom production system uses hepa-filtered polyethelene bags for the colonisation and fruiting stage.</p>
+<p><em>Innoculation</em></p>
+<ol style="list-style-type: decimal">
+<li>Take a bag of fully colonised innoculated gri and break u te 'cake' into individual grains.</li>
+<li>Add two hadfulls of straw to a hepa-filtered polyethelene bag.</li>
+<li>Sprinkle a 'pinch' of innoculated grain onto the straw and repeat this process until the bag is full enough to still allow for heat sealing</li>
+<li>heat seal the bag</li>
+<li>repeat until all the pasteurised straw is used and store bags in a dark space for colonisation</li>
+</ol>
+<p><em>Fruiting</em></p>
+<p>After 5-6 weeks the bags should be sufficiently colonised to be moved to the fruiting room.</p>
+<ol style="list-style-type: decimal">
+<li>When the straw in the bags is fully colonised (covered in white mycelium) move the bags to the fruiting room</li>
+<li>Cut cross-shaped slits into the bags using a razor knife.</li>
+<li>Spray the bags with water if they appear very dry.</li>
+<li>Leave in fruiting room until harvestable mushrooms develop.</li>
+<li>Harvest fruiting bodies by twisting off the mature cluster (make sure to do this before the mushrooms release their spores to reduce the chance of creating unsafe conditions in the fruiting room).</li>
+</ol>
+<h4 id="controlled-environments-using-open-source-software-and-inexpensive-microcontrollers-and-diy-electronics">Controlled Environments Using Open Source Software and Inexpensive Microcontrollers and DIY Electronics</h4>
+<h3 id="the-process">The Process</h3>
 <h2 id="suppliers">Suppliers</h2>
 <p><strong>Aloha Medicinals</strong></p>
 <blockquote>
@@ -436,7 +485,7 @@
 <p><strong>Johnny's Selected Seeds</strong></p>
 <blockquote>
 <p><strong>url:</strong> http://www.johnnyseeds.com/</p>
-<p><strong>details:</strong>seed, tools</p>
+<p><strong>details:</strong> seed, tools</p>
 </blockquote>
 <p><strong>Logan Labs</strong></p>
 <blockquote>

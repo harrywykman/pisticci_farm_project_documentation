@@ -14,6 +14,9 @@ elements:
 \item
   \emph{producing} high-quality vegetables for Pisticci on the
   \hyperref[farm]{\textbf{multi-site farm}}
+\item
+  fully utilising available space through
+  \hyperref[mushrooms]{\textbf{mushroom production}}
 \end{itemize}
 
 This document outlines the technologies and processes involved in the
@@ -50,6 +53,9 @@ Process}\label{organic-material-collection-process}
 \end{itemize}
 
 \paragraph{Composting Processes}\label{composting-processes}
+
+On a week-by-week basis, the Pisticci ASP composting process
+incorporates the following steps:
 
 \textbf{Establishing a new Pile}
 
@@ -675,6 +681,138 @@ regime is as follows:
   Neptune's Harvest Fish Fertilizer --- 2.5 tbsp / 14 days
 \end{itemize}
 
+ \#\# Mushroom Production
+
+Not all the space available on the Pisticci Farm Project sites is
+suitable for plant production. In particular, there remain underutilised
+indoor spaces. To begin to make the best use of these spaces mushroom
+cultivation in a controlled environment is being developed.
+
+\subsubsection{The Technology}\label{the-technology}
+
+The mushroom grow room is in the basement of the Old Post Rd South site
+and consists of a basic timber framed room insulated with 2" foam board.
+The roof is insulated with fibreglass insulation sealed from moisture
+with clear plastic.
+
+The controls and monitoring for the room have been set up largely
+following the \texttt{mycodo} project created by Kyle Gabriel
+(\url{http://kylegabriel.com/projects/2015/04/mushroom-cultivation-revisited.html}).
+
+A
+\href{https://www.raspberrypi.org/products/raspberry-pi-2-model-b/}{raspberry
+pi} forms the core of the control system. The \texttt{pi} reads the
+temperature and humidity sensor and, using a
+\href{http://www.csimn.com/CSI_pages/PIDforDummies.html}{PID
+controller}, switches fans, a heater and humidifier depending on the
+environmental conditions.
+
+\paragraph{Simple Oyster Mushroom
+Production}\label{simple-oyster-mushroom-production}
+
+We have aimed for the simplest (and dirtiest) production method that
+will still produce a product that is valuable to the Pisticci Kitchen.
+In the proof-of-concept stage we used a cold `pasteurisation' method.
+The method currently under development will use heat pasteurisation
+where water heating is provided by an hydronic coil heated by an
+efficient gas water heater.
+
+\emph{Cold Pasteurisation}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Part fill a 20 gallon drum with water
+\item
+  add 10 oz (300 g) of hi calcium hydrated lime and mix well
+\item
+  add water to approximately 15 gallons
+\item
+  fill mesh sack(s) with straw and slowly push the sacks into the barrel
+  until the barrel is holding as much straw as possible. The lime
+  solution should cover the sack(s).
+\item
+  leave for 12 hours
+\item
+  remove sacks from barrel and allow to drain
+\item
+  remove straw from sacks and spread out to dry
+\end{enumerate}
+
+\emph{Hot Pastuerisation}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  add water to barrel to fill to approximately 3/4 of the barrel's
+  volume
+\item
+  turn on water heater and allow water to reach 160-170°F (70-75°C).
+\item
+  fill mesh sack(s) with straw and slowly push the sacks into the barrel
+  until the barrel is holding as much straw as possible.
+\item
+  maintain the water temperature in the 160 - 170°F range for 1 hour
+\item
+  remove sacks from barrel and allow to drain
+\item
+  remove straw from sacks and spread out to dry
+\end{enumerate}
+
+Our mushroom production system uses hepa-filtered polyethelene bags for
+the colonisation and fruiting stage.
+
+\emph{Innoculation}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  Take a bag of fully colonised innoculated gri and break u te `cake'
+  into individual grains.
+\item
+  Add two hadfulls of straw to a hepa-filtered polyethelene bag.
+\item
+  Sprinkle a `pinch' of innoculated grain onto the straw and repeat this
+  process until the bag is full enough to still allow for heat sealing
+\item
+  heat seal the bag
+\item
+  repeat until all the pasteurised straw is used and store bags in a
+  dark space for colonisation
+\end{enumerate}
+
+\emph{Fruiting}
+
+After 5-6 weeks the bags should be sufficiently colonised to be moved to
+the fruiting room.
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\itemsep1pt\parskip0pt\parsep0pt
+\item
+  When the straw in the bags is fully colonised (covered in white
+  mycelium) move the bags to the fruiting room
+\item
+  Cut cross-shaped slits into the bags using a razor knife.
+\item
+  Spray the bags with water if they appear very dry.
+\item
+  Leave in fruiting room until harvestable mushrooms develop.
+\item
+  Harvest fruiting bodies by twisting off the mature cluster (make sure
+  to do this before the mushrooms release their spores to reduce the
+  chance of creating unsafe conditions in the fruiting room).
+\end{enumerate}
+
+\paragraph{Controlled Environments Using Open Source Software and
+Inexpensive Microcontrollers and DIY
+Electronics}\label{controlled-environments-using-open-source-software-and-inexpensive-microcontrollers-and-diy-electronics}
+
+\subsubsection{The Process}\label{the-process}
+
 \subsection{Suppliers}\label{suppliers}
 
 \textbf{Aloha Medicinals}
@@ -735,7 +873,7 @@ regime is as follows:
 \begin{quote}
 \textbf{url:} http://www.johnnyseeds.com/
 
-\textbf{details:}seed, tools
+\textbf{details:} seed, tools
 \end{quote}
 
 \textbf{Logan Labs}

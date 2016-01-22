@@ -5,6 +5,7 @@ The Pisticci Farm Project is a project of the Upper Manhattan restaurant [Pistic
  - *engaging* the **restaurant** staff and patrons
  - creating *zero waste* through [**composting**](#compost) within the city
  - *producing* high-quality vegetables for Pisticci on the [**multi-site farm**](#farm)
+ - fully utilising available space through [**mushroom production**](#mushrooms)
 
 This document outlines the technologies and processes involved in the composting and farming elements of the project.
 
@@ -25,6 +26,7 @@ The Pisticci ASP system using includes three enclosed boxes which are bottem-fed
 
 #### Composting Processes
 
+On a week-by-week basis, the Pisticci ASP composting process incorporates the following steps:
 
 **Establishing a new Pile**
 
@@ -400,6 +402,68 @@ The ideal use of this system is still being worked out. The current regime is as
  - Solu-Kelp --- 1.5 tsp / 14 days
  - Neptune's Harvest Fish Fertilizer --- 2.5 tbsp / 14 days
 
+<a name="mushrooms"></a>
+## Mushroom Production
+
+Not all the space available on the Pisticci Farm Project sites is suitable for plant production. In particular, there remain underutilised indoor spaces. To begin to make the best use of these spaces mushroom cultivation in a controlled environment is being developed.
+
+### The Technology
+
+The mushroom grow room is in the basement of the Old Post Rd South site and consists of a basic timber framed room insulated with 2" foam board. The roof is insulated with fibreglass insulation sealed from moisture with clear plastic.
+
+The controls and monitoring for the room have been set up largely following the `mycodo` project created by Kyle Gabriel ([http://kylegabriel.com/projects/2015/04/mushroom-cultivation-revisited.html](http://kylegabriel.com/projects/2015/04/mushroom-cultivation-revisited.html)).
+
+A [raspberry pi](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) forms the core of the control system. The `pi` reads the temperature and humidity sensor and, using a [PID controller](http://www.csimn.com/CSI_pages/PIDforDummies.html), switches fans, a heater and humidifier depending on the environmental conditions.
+
+#### Simple Oyster Mushroom Production
+
+We have aimed for the simplest (and dirtiest) production method that will still produce a product that is valuable to the Pisticci Kitchen. In the proof-of-concept stage we used a cold 'pasteurisation' method. The method currently under development will use heat pasteurisation where water heating is provided by an hydronic coil heated by an efficient gas water heater.
+
+*Cold Pasteurisation*
+
+ 1. Part fill a 20 gallon drum with water
+ 2. add 10 oz (300 g) of hi calcium hydrated lime and mix well
+ 3. add water to approximately 15 gallons
+ 4. fill mesh sack(s) with straw and slowly push the sacks into the barrel until the barrel is holding as much straw as possible. The lime solution should cover the sack(s).
+ 5. leave for 12 hours
+ 6. remove sacks from barrel and allow to drain
+ 7. remove straw from sacks and spread out to dry
+
+*Hot Pastuerisation*
+
+ 1. add water to barrel to fill to approximately 3/4 of the barrel's volume
+ 2. turn on water heater and allow water to reach 160-170<sup>&deg;</sup>F (70-75<sup>&deg;</sup>C).
+ 3. fill mesh sack(s) with straw and slowly push the sacks into the barrel until the barrel is holding as much straw as possible.
+ 4. maintain the water temperature in the 160 - 170<sup>&deg;</sup>F range for 1 hour
+ 5. remove sacks from barrel and allow to drain
+ 6. remove straw from sacks and spread out to dry
+
+Our mushroom production system uses hepa-filtered polyethelene bags for the colonisation and fruiting stage.
+
+*Innoculation*
+
+ 1. Take a bag of fully colonised innoculated gri and break u te 'cake' into individual grains.
+ 2. Add two hadfulls of straw to a hepa-filtered polyethelene bag.
+ 3. Sprinkle a 'pinch' of innoculated grain onto the  straw and repeat this process until the bag is full enough to still allow for heat sealing
+ 4. heat seal the bag
+ 5. repeat until all the pasteurised straw is used and store bags in a dark space for colonisation
+
+*Fruiting*
+
+After 5-6 weeks the bags should be sufficiently colonised to be moved to the fruiting room.
+
+ 1. When the straw in the bags is fully colonised (covered in white mycelium) move the bags to the fruiting room
+ 2. Cut cross-shaped slits into the bags using a razor knife.
+ 3. Spray the bags with water if they appear very dry.
+ 4. Leave in fruiting room until harvestable mushrooms develop.
+ 5. Harvest fruiting bodies by twisting off the mature cluster (make sure to do this before the mushrooms release their spores to reduce the chance of creating unsafe conditions in the fruiting room).
+
+#### Controlled Environments Using Open Source Software and Inexpensive Microcontrollers and DIY Electronics
+
+
+
+### The Process
+
 ## Suppliers
 
 **Aloha Medicinals**
@@ -446,7 +510,7 @@ The ideal use of this system is still being worked out. The current regime is as
 
  > **url:** http://www.johnnyseeds.com/
  >
- > **details:**seed, tools
+ > **details:** seed, tools
 
 **Logan Labs**
 
