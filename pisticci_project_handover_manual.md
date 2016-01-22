@@ -98,7 +98,7 @@ In 2015, the indoor space consisted of 12 beds across two greenhouses. The beds 
 
 ### Kitchawan
 
-Kitchawan Farm is a diversified working farm with a focus on rough housing of horses. The Pisticci Farm project leases a small area for vegetable production. In Spring of 2016, this area will be developed into sets of 30 inch wide beds. This site will be used for crops  n
+Kitchawan Farm is a diversified working farm with a focus on rough housing of horses. The Pisticci Farm project leases a small area for vegetable production. In Spring of 2016, this area will be developed into sets of 30 inch wide beds. This site will be used for crops which do not require the heat of greenhouses and take more time to mature and so require the extra space available at this site.
 
 ### Crops
 
@@ -342,9 +342,29 @@ Soil is at the heart of any vegetable growing system with integrity. The Pisticc
 
 #### Soil Testing and Ammending for Mineral Balance
 
-Soil testing has been carried out to determine how to ammend soil to achieve a balance of minerals for ideal plant health. The principal tool used to determine the 'ideal' is the set of worksheets created by Steve Solomon and Erica Reinheimer (available at [http://www.newsociety.com/var/storage/blurbs/IntelligentGardener-Worksheets.pdf](http://www.newsociety.com/var/storage/blurbs/IntelligentGardener-Worksheets.pdf)). This process is well described in "The Intelligent Gardener" by Steve Solomon.
+Soil testing has been carried out to determine how to ammend soil to achieve a balance of minerals for ideal plant health. The principal tool used to determine the 'ideal' is the set of worksheets created by Steve Solomon and Erica Reinheimer (available at [http://www.newsociety.com/var/storage/blurbs/IntelligentGardener-Worksheets.pdf](http://www.newsociety.com/var/storage/blurbs/IntelligentGardener-Worksheets.pdf)). This process is well described in `The Intelligent Gardener` by Steve Solomon.
 
 ##### Recommended Soil Treatments for 2016
+
+ * minerals required
+    * sulfur 
+        * (OPRS OUT, KITCH, OPRS EGH, OPRS WGH)
+    * phosphorus
+        * (OPRS OUT, KITCH, OPRS EGH, OPRS WGH)
+    * calcium
+        * (OPRS OUT, KITCH, OPRS EGH, OPRS WGH)
+    * potassium
+        * (OPRS OUT, KITCH)
+    * sodium
+        * (KITCH)
+    * boron
+        * (OPRS OUT, KITCH, OPRS EGH, OPRS WGH)
+    * manganese
+        * (KITCH)
+    * copper
+        * (KITCH, OPRS EGH, OPRS WGH)
+    * zinc
+        * (KITCH, OPRS EGH, OPRS WGH)
 
  TODO TABLE
 
@@ -419,6 +439,9 @@ A [raspberry pi](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/) f
 
 We have aimed for the simplest (and dirtiest) production method that will still produce a product that is valuable to the Pisticci Kitchen. In the proof-of-concept stage we used a cold 'pasteurisation' method. The method currently under development will use heat pasteurisation where water heating is provided by an hydronic coil heated by an efficient gas water heater.
 
+### The Process
+
+
 *Cold Pasteurisation*
 
  1. Part fill a 20 gallon drum with water
@@ -457,12 +480,6 @@ After 5-6 weeks the bags should be sufficiently colonised to be moved to the fru
  3. Spray the bags with water if they appear very dry.
  4. Leave in fruiting room until harvestable mushrooms develop.
  5. Harvest fruiting bodies by twisting off the mature cluster (make sure to do this before the mushrooms release their spores to reduce the chance of creating unsafe conditions in the fruiting room).
-
-#### Controlled Environments Using Open Source Software and Inexpensive Microcontrollers and DIY Electronics
-
-
-
-### The Process
 
 ## Suppliers
 
@@ -531,6 +548,12 @@ After 5-6 weeks the bags should be sufficiently colonised to be moved to the fru
  > **details:** composting support
  >
  > **contact:** *Peter Moon* (peter@o2compost.com)
+
+**Shroom Supply**
+
+ > **url:** http://www.shroomsupply.com/
+ >
+ > **details:** mushroom grow bags, mushroom growing supplies
 
 **Teraganix**
 
