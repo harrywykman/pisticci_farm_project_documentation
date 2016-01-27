@@ -38,16 +38,18 @@ Organic materials may now be added.
 
 **Ongoing Addition of Organic Materials**
 
+This task will have to be done approximately every other day, sometimes daily closer to the weekend.
+
  1. Use the composting fork to mix through any previously added materials and add water from the hose to bring the moisture levels up to approximately [50% moisture](#50moisture).
  2. Empty two or three white bags of organic materials into the bin currently in use. Attempt to mix bags which are mostly vegetable waste ([high nitrogen materials](#highnitrogen)) and bags which are mostly napkins / dry '[high carbon](#highcarbon)' materials.
  3. Mix these materials together in the bin using the composting fork.
- 4. Use the bucket to carry several buckets of woodchips from the woodchip storge bin to the compost bin to cover the material from the bags.
+ 4. Use the bucket to carry several buckets of woodchips from the woodchip storge bin to the compost bin to cover the material from the bags. Woodchips should make up approximately 40% of the volume of the food scraps depending on the composition from the white bags.
  5. Mix the woodchips into the other materials using the composting fork.
  6. Allow the materials to sit in the bin until the next addition to absorb moisture before adding any additional water (see point 1 above).
 
 **When a Bin is Full**
 
- 1. When a bin is full, make sure the moisture levels are appropriate (ie. [50% moisture](#50moisture)), add a layer of woodchip over the top layer and cover with geotextile fabric / weed matting.
+ 1. When a bin is full, make sure the moisture levels are appropriate (ie. [50% moisture](#50moisture)), add a 2 inch layer of soil over the top layer and cover with geotextile fabric / weed matting.
  2. ensure the valve for the air is in the fully open position.
  3. Leave to mature for as long as possible before the compost is taken up to the farm
  4. Compost will be taken to the farm when two bins are full and one bin is one quarter to half-way full.
@@ -71,8 +73,6 @@ When two bins are full and one bin is one quarter to half-way full, the most mat
 
 <a name="farm"></a>
 
-
-
 ## Farm
 
 The Pisticci Farm Project is a multi-site micro farm. At the time of writing the farm consists of two sites:
@@ -85,6 +85,8 @@ The **Old Post Rd South** site was developed and farmed in 2015. The **Kitchawan
 ### Old Post Rd South
 
 The Old Post Rd South site is the flagship site of the Pisticci Farm Project. It consists of indoor and outdoor growing space. There are two large old glass greenhouses which have been restored and developed for all sesason production of vegetables. The 2015 growing season was used for diverse crop production with a focus on fast growing, high value crops, variety trials and winter greens production. In 2016, this site will be used primarily for all season greens production and greenhouse production of tomatoes, peppers, eggplant and cucumbers.
+
+A map of the bed layout is in the document called "old_post_rd_south_bed_configuration.pdf"
 
 #### The Outdoor Growing Area
 
@@ -306,6 +308,34 @@ Radishes were not grown in 2015. Refer to `The Market Gardener` or other referen
  > **Store:** Basement
 
 Refer to `The Market Gardener` or other reference for details of trellising system and offset training.
+
+### Pests, Diseases and Remedies
+
+A number of pests and diseases were encountered in 2015. A general strategy of maintaining plant and soil health through application of compost, seaweed tonic and effective microorganisms in order to prevent or reduce pest and disease attach was followed. The following is a description of actions taken for pests or diseases that required more specific intervention:
+
+#### Spinach Leaf Miner
+
+Appeared on spinach in Eastern Greenhouse. Colonised leaves were removed and discarded. Being caught early, this single intervention was completely successful.
+
+#### Flea Beetle
+
+Flea beetle was found on a number of crops including arugula, eggplant and mustard greens. Greens crops like arugula should be covered with row cover immediately after germination. This is a very successful control. Flea beetle on eggplants is less significant, having little impact on fruiting. Th crop should be covered in its early life to protect young leaves but once plants are established signs of flea beetle are not a great concern.
+
+#### Cucumber Beetles
+
+Cucumber beetle was found around squash plants. They had little effect, however, as plants were kept covered until they outgrew the rowcovers (using 5ft wire hoops).
+
+#### Aphids
+
+Aphids effected tomatoes planted outdoors. These were treated with two applications of insecticidal soap applied a week apart. This reduced the aphid population to numbers that were not significant for maintaining crop health.
+
+#### Squash Borer
+
+Early planted squash were effected by squash borer towards the end of their life. They were protected early by row cover. Planting successions of squash to replace the crop from effected plants was the principal strategy employed. That is, no intervention was used beyond physical barriers as there are few effective organic controls of this pest.
+
+#### Early Blight
+
+Some signs of fungal disease, probably early blight, were found on tomatoes grown outside. This was treated by removing effected foliage ensuring good hygeine (ie. sterilising pruning tools with alcohol periodically while working).
 
 ### Nursery
 
