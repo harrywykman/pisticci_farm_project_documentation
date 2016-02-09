@@ -454,17 +454,15 @@ The ideal use of this system is still being worked out. The current regime is as
  - Solukelp --- (312 oz / acre / year) **0.03 oz / 100 ft<sup>2</sup> / 14 days**
  - Neptune's Harvest Fish Fertilizer --- (12 gallons / acre / year) **0.14 oz / 100 ft<sup>2</sup> / 14 days**
 
-*Western Greenhouse* (400 sq ft bed area)
+*Western Greenhouse and Eastern Greenhouses* (1300 sq ft bed area)
 
- - EM --- 6 tbsp / 14 days
- - Solu-Kelp --- 1 tsp / 14 days
- - Neptune's Harvest Fish Fertilizer --- 2 tbsp / 14 days
+ - EM --- 1 cup / 14 days
+ - Solu-Kelp --- 3 tsp / 14 days
+ - Neptune's Harvest Fish Fertilizer --- 1/3 cup / 14 days
 
-*Eastern Greenhouse* (900 sq ft bed area)
+*Method*
 
- - EM --- 9 tbsp / 14 days
- - Solu-Kelp --- 1.5 tsp / 14 days
- - Neptune's Harvest Fish Fertilizer --- 2.5 tbsp / 14 days
+Mix EM, Solu-kelp and fish emulsion in a 5 gallon bucket and fill bucket. Manually turn on the two solenoid valves for the greenhouses and run the system until the lines fill (approx. 5 mins).  Put the weighted filter from the venturi into the bucket and open the two ball valves which route the water through the venturi. Slowly close the gate valve. The bio-nutrient solution will begin to the drawn into the irrigation system. When the bucket is empyty, clean it, replace filter and allow the lines to draw clean water until the lines are flushed. Slowly open the gate valve and then close the two ball valves. Turn off the two solenoids.
 
 <a name="mushrooms"></a>
 ## Mushroom Production
@@ -504,6 +502,7 @@ We have aimed for the simplest (and dirtiest) production method that will still 
  4. maintain the water temperature in the 160 - 170<sup>&deg;</sup>F range for 1 hour
  5. remove sacks from barrel and allow to drain
  6. remove straw from sacks and spread out to dry
+ 7. do not add spawn to straw before the straw temperature has dropped below 100<sup>&deg;</sup>F (38<sup>&deg;</sup>C)
 
 Our mushroom production system uses hepa-filtered polyethelene bags for the colonisation and fruiting stage.
 
@@ -538,6 +537,12 @@ After 5-6 weeks the bags should be sufficiently colonised to be moved to the fru
  > **url:** http://www.arbico-organics.com/
  >
  > **details:** EM•1<sup>®</sup>
+
+**Bennie's Feed Barn**
+
+ > **url:** http://www.benniesfeed.com/
+ >
+ > **details:** straw
 
 **Central Irrigation** (Elmsford)
 
